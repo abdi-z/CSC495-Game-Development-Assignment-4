@@ -28,7 +28,7 @@ Background Music: https://www.youtube.com/watch?v=Q3MZxj-dFkI&ab_channel=ymetsys
 
 <img width="958" alt="Screenshot 2022-06-19 205319" src="https://user-images.githubusercontent.com/92116477/174493493-2f13312d-0b78-4c97-a7d6-e9973d4bc276.png">
 
-Minimal Viable Version with lesser graphics, shaders, and lightning available at https://yestisabdi.itch.io/zombie-fps
+Minimal Viable Version with lesser graphics, shaders, and lightning deployed using WebGL at https://yestisabdi.itch.io/zombie-fps
 For better and high quality experience, download the exe file.
 
 <img width="957" alt="Screenshot 2022-06-19 205355" src="https://user-images.githubusercontent.com/92116477/174493507-8b366fd7-f42b-4833-accc-a978010e7d3c.png">
