@@ -6,6 +6,12 @@ https://user-images.githubusercontent.com/92116477/174493230-6c54e7be-ca3a-40d2-
 
 <img width="956" alt="Screenshot 2022-06-19 205859" src="https://user-images.githubusercontent.com/92116477/174493570-c1ba29bf-910a-489b-9521-2f109c165382.png">
 
+## Tech used:
+1. Unity and Unity Hub
+2. WebGL
+3. C#
+4. Unity Particle System and NavMesh
+
 ## Topics:
 1. 2D and 3D objects
 2. Keyboard and mouse inputs
